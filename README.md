@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hola, soy Yeimmy
 
-<!--
-**YeimmyBelen/YeimmyBelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas.
+🌱 Actualmente sigo aprendiendo desarrollo de software y programación.
+✨ Me gusta aprender nuevas tecnologías y desarrollar proyectos que me ayuden a mejorar como programadora.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que conozco
+
+### Lenguajes
+
+- Java ☕
+- Python 🐍
+- C++
+- HTML5
+- CSS3
+
+### Herramientas
+
+- Visual Studio Code
+- BlueJ
+- Git
+- GitHub
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Desarrollo Backend
+- Programación Orientada a Objetos
+- Git y GitHub
+- Buenas prácticas de programación
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como desarrolladora de software, crear proyectos interesantes y contribuir en proyectos de código abierto.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TUUSUARIO
+
+Gracias por visitar mi perfil. 😊
